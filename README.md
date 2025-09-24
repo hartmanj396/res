@@ -1,6 +1,6 @@
 # Resume Material
 Collection of materials completed
 
-# Tuberculosis in Moldova SAS Code
+# Tuberculosis and Incarceration SAS Code - Moldova
 
-# Evaluation Project
+# Childhood Malnutrition Evaluation Project - Ethiopia
