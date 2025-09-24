@@ -1,2 +1,2 @@
-# res
-Collection of materials for use on resume
+# Resume Material
+Collection of materials completed
